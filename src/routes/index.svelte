@@ -1,6 +1,1 @@
-<script lang="ts">
-    // Components
-    import { Canvas } from '$components';
-</script>
-
-<Canvas />
+Hier komen de kleuren
